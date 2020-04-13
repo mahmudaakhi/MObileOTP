@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mobileotp</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+</resources>
